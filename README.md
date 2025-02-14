@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm01ZXh4ZjZ4NGNka2VqOGR1MmplYnkzeXUyamxvcTh6OXVkYThxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jmCksJQ3E2X4tyXXYT/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadtome&style=flat-square&color=blue" alt=""/>
+  
   <a href="https://www.linkedin.com/in/cody-tipton-21075417b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
