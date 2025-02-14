@@ -21,7 +21,12 @@
 Researcher with a PhD in mathematics who enjoys working on applying deep learning to problems in games, mathematics, and material science.  I love learning about the "why" something works, particularly in reinforcement learning and generative AI.
 
 - Currently looking for data science, quantitative research, and research scientist roles.
-
+---
+### 📎: Research Papers
+- [Haldane Bundles](https://arxiv.org/abs/2312.04600)
+  - Our paper on creating a synthetic dataset of topological insulators using principled mathematics and physics for constructing deep learning models to predict Chern numbers.
+- [n-Lie_d Operad and its Koszul Dual](https://arxiv.org/abs/2401.15310)
+  - Paper finding and constructing the Koszul dual operad of the n-Lie_d operad.
 --- 
 ### 🔥: Projects
 - [![haldane-bundles](http://img.shields.io/badge/Repo-Haldane_Bundles-blue)](https://github.com/shadtome/haldane-bundles)
