@@ -28,7 +28,7 @@ Researcher with a PhD in mathematics who enjoys working on applying deep learnin
 - [n-Lie_d Operad and its Koszul Dual](https://arxiv.org/abs/2401.15310)
   - Paper finding and constructing the Koszul dual operad of the n-Lie_d operad.
 - [Thesis](https://digital.lib.washington.edu/researchworks/items/0636392b-a115-42da-8ef2-bdb731b721e2/full)
-  - My thesis on n-Lie_d and n_Com_d operads and the exploration of certain finite dimensional 3-Com algebras.
+  - My thesis on n-Lie_d and n_Com_d operads and the exploration of certain finite-dimensional 3-Com algebras.
 --- 
 ### 🔥: Projects
 - [![haldane-bundles](http://img.shields.io/badge/Repo-Haldane_Bundles-blue)](https://github.com/shadtome/haldane-bundles)
